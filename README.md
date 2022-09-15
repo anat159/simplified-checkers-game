@@ -16,3 +16,9 @@ Rules that are different from the original game or varies between of his version
 <img src="https://user-images.githubusercontent.com/71435004/190424948-09c690e7-fb9b-4e19-88ab-0aff56190ab1.jpg" width="300" height="300">
   
 The upper left is (0,0) and the lower right is (7,7)
+
+# Instructions
+To run the code:
+1. Add the file targil.py to the input files folder.
+2. Add an input file, containing all the moves, to the input files folder.
+3. Write in the terminal targil and the input file name. For example - targil input.txt
