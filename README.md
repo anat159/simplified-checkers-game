@@ -1,4 +1,4 @@
-# simplified checkers game
+# Simplified Checkers Game
 
 Input: Text file with the players moves. Each row includes source (x and y axis location) and destination (x and y axis location). multiple
 capture appears as multiple lines.
