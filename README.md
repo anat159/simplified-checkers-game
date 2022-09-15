@@ -8,9 +8,11 @@ Output: print the winner- "first","second","tie". In case of illegal move- print
 Rules that are different from the original game or varies between of his versions:
 * White opens the game, then players alternate their turns. 
 * If there is a possible capture move, capture must be made.
-* there is no option to upgrade a piece to a queen.
+* There is no option to upgrade a piece to a queen.
 * The play ends when there is no possible move for the last player.
 * The winner is the player with the higher number of pieces left on the board at the end of the game.
 * The location of the pieces are such that: 
-![checkers](https://user-images.githubusercontent.com/71435004/190424948-09c690e7-fb9b-4e19-88ab-0aff56190ab1.jpg)
+
+<img src="https://user-images.githubusercontent.com/71435004/190424948-09c690e7-fb9b-4e19-88ab-0aff56190ab1.jpg" width="300" height="300">
+  
 The upper left is (0,0) and the lower right is (7,7)
